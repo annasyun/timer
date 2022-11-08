@@ -1,0 +1,57 @@
+body {
+    background-color:darkgreen;
+}
+
+.logo {
+    background-image: url(/assets/logo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 244px;
+    height: 48px;
+    margin: auto;
+}
+
+.container {
+    width: 400px;
+    height: 360px;
+    background-color: aquamarine;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+}
+
+.line {
+    width: 312px;
+    height: 1px;
+    background-color:#3D538A;
+    margin: auto;
+}
+
+.cont-counter {
+    display: flex;
+    width: 284px;
+    height: 98px;
+    background-color: aqua;
+    margin: auto;
+    /* margin-top: 33px; */
+}
+
+.cont-btn {
+    margin: auto;
+    width: 236px;
+    height: 48px;
+}
+
+.btn {
+    width: 112px;
+    height: 48px;
+    background-color: transparent;
+    border: none;
+}
+
+.copyright {
+    display: block;
+    font-size: 14px;
+}
