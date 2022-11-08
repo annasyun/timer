@@ -53,5 +53,9 @@ body {
 
 .copyright {
     display: block;
-    font-size: 14px;
+    background-image: url(/assets/copyright.png);
+    background-repeat: no-repeat;
+    margin: 60px auto;
+    width:104px;
+    height: 17px;
 }
